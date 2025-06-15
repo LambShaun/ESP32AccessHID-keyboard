@@ -94,3 +94,6 @@
 * **开发框架**: Arduino Core for ESP32
 * **编程语言**: C++
 * **主要依赖库**: `USB.h` (USBHIDKeyboard), `Preferences.h`
+
+## 更多有趣的可见个人主页
+[ https://lambshaun.github.io/]
